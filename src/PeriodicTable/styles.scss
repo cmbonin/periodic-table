@@ -1,0 +1,10 @@
+@import '../styles/_global.scss';
+
+.gridWrapper {
+    display: grid;
+    grid-gap: $gridGap;
+    grid-template-columns: repeat($gridXCount, 1fr);
+    grid-template-rows: repeat($gridYCount, 50px);
+    max-width: 1140px;
+    // margin: 0.5% auto;
+}
