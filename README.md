@@ -16,6 +16,3 @@ npm run build
 
 [0]: http://celinebonin.com/periodic-table/
 
-### My TODO list
-Add keystroke events.  
-Better styling.  
